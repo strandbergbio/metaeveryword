@@ -1,1 +1,1 @@
-0 */2 * * * python /home/adam/Desktop/MetaEveryWord/metaeveryword.py
+0 */2 * * * python /home/adam/Desktop/metaeveryword/metaeveryword.py
